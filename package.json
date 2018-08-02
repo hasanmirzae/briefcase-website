@@ -1,8 +1,8 @@
 {
-    "title": "New Age",
-    "name": "startbootstrap-new-age",
-    "version": "4.1.1",
-    "description": "A one page app landing page HTML theme for Bootstrap.",
+    "title": "Briefcase website",
+    "name": "briefcase-website",
+    "version": "1.0.0",
+    "description": "Briefcase portal",
     "keywords": [
         "css",
         "sass",
@@ -11,15 +11,11 @@
         "theme",
         "template"
     ],
-    "homepage": "https://startbootstrap.com/template-overviews/new-age",
-    "bugs": {
-        "url": "https://github.com/BlackrockDigital/startbootstrap-new-age/issues",
-        "email": "feedback@startbootstrap.com"
-    },
+    "homepage": "https://briefcase.world",
     "license": "MIT",
     "author": "Start Bootstrap",
     "contributors": [
-        "David Miller (http://davidmiller.io/)"
+        "Hassan Mirzaee (hasanmirzae@gmail.com)"
     ],
     "repository": {
         "type": "git",
